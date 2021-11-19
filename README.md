@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reifqi
-- 👀 I’m interested in coding
+- 👀 I’m interested in nothing?
 - 🌱 I’m currently learning java, python, etc
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me (secret)
